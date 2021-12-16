@@ -1,0 +1,12 @@
+.secondcard{
+border: 1px solid black;
+margin: 2px 2px;
+}
+.border-card{
+    background: blue;
+    padding-right: 50px !important;
+}
+
+body{
+    user-select: none;
+}
